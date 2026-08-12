@@ -24,4 +24,4 @@ The dataset Det-UAV UAV detection dataset contains 10403 images for training, 27
 
 ## Acknowledgements
 
-We sincerely thank the authors of [DroneDetectionDataset](https://github.com/Maciullo/DroneDetectionDataset) for making their dataset publicly available and for their contribution to UAV detection research.
+We sincerely thank the authors of [DroneDetectionDataset](https://github.com/Maciullo/DroneDetectionDataset) for their contribution to UAV detection research.
