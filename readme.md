@@ -1,5 +1,5 @@
-# LFE-YOLO
-# UAV Detection Method Based on Lightweight Feature Fusion and Enhancement
+# LFE-UAV
+# A Lightweight Feature-Fusion and Small-Target Enhancement Network for Vision-Based UAV Detection
 
 ### Code Description
 
