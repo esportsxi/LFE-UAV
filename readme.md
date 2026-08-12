@@ -8,7 +8,7 @@ Det-UAV is a UAV detection dataset developed for ground-to-air vision scenarios.
 The dataset Det-UAV UAV detection dataset contains 10403 images for training, 2798 images for validation, and 3086 images for testing, with a total of 16287 images.
 
 
-## 2.The dataset has been uploaded.
+## 2.Dataset download address.
 | Dataset  | Link |
 | --- | --- |
 | Det-UAV | [Link ( `viik`)](https://pan.baidu.com/s/1HB3NjHm41dF5HZ6Z94Vqag?pwd=viik) |
