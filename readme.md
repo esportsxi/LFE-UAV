@@ -9,10 +9,13 @@ The dataset Det-UAV UAV detection dataset contains 10403 images for training, 27
 
 
 ## 2.Dataset download address.
-| Dataset  | Link |
-| --- | --- |
-| Det-UAV | [Link ( `viik`)](https://pan.baidu.com/s/1HB3NjHm41dF5HZ6Z94Vqag?pwd=viik) |
-| DroneDetectionDataset | [Link](https://github.com/Maciullo/DroneDetectionDataset) |
+
+The Det-UAV dataset has been uploaded to this GitHub repository  .
+
+| Dataset | GitHub | Baidu Netdisk |
+| --- | --- | --- |
+| Det-UAV | [DetUAV.zip](./DetUAV.zip) | [Download (`viik`)](https://pan.baidu.com/s/1HB3NjHm41dF5HZ6Z94Vqag?pwd=viik) |
+| DroneDetectionDataset | [Link](https://github.com/Maciullo/DroneDetectionDataset) | — |
 
 ## 3.Representative Scenes
 ![Figure 1. Representative UAV flight scenes.](figure/Figure1.png)
